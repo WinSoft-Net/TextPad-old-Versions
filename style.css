@@ -1,26 +1,13 @@
 #site-name{
     background-color:#489cebf6;
-    height: 60px;
-    font-size: 50px;
+    height: 55px;
+    font-size: 45px;
 }
 #rus{
     font-size: 20px;
-    position: relative;
-    left: 20px;
-    top: -40px;
-}
-#tp01{
-    background-color: #4b83b8f6;
-    color: #ffffff;
-    padding: 11px;
-    margin: 5px;
-    opacity: 0.9;
-    width: 200px;
-    text-align: center;
-    
-    position: relative;
-    top: 40px;
-    left: -60px;
+    position: absolute;
+    top: 25px;
+    left: 25px;
 }
 #textpad{
     position: relative;
@@ -33,6 +20,26 @@
     position: relative;
     top: -20px;
     left: 15px;
+}
+#mainpage{
+    position: relative;
+    top: -130px;
+    left: 630px;
+    font-size: 20px
+}
+
+#tp01{
+    background-color: #4b83b8f6;
+    color: #ffffff;
+    padding: 11px;
+    margin: 5px;
+    opacity: 0.9;
+    width: 200px;
+    text-align: center;
+    
+    position: relative;
+    top: 40px;
+    left: -160px;
 }
 #tp01about{
     color: #1350d3;
@@ -271,4 +278,25 @@
     font-size: 20px;
     left: 260px;
     top:  240px;
+}
+
+#tp14{
+    background-color: #4b83b8f6;
+    color: #ffffff;
+    padding: 11px;
+    margin: 5px;
+    opacity: 0.9;
+    width: 200px;
+    text-align: center;
+    
+    position: relative;
+    top: 280px;
+    left: 12px;
+}
+#tp14about{
+    color: #1350d3;
+    position: relative;
+    font-size: 20px;
+    left: 260px;
+    top:  260px;
 }
